@@ -46,11 +46,11 @@ Estimating robot pose over time and comparing it against ground truth data.
 Analyzing localization accuracy in slip and non-slip conditions.
 
 **Repository Contents**
-fgo.py – Implementation of Factor Graph Optimization and sensor fusion
-lidar_3.py – LiDAR data acquisition and processing
-arduino_comb.ino – Differential drive robot control code
-sensor_fusion_expt1.csv – Experimental dataset for non-slip condition
-sensor_fusion_expt2.csv – Experimental dataset for slip condition
+1. fgo.py – Implementation of Factor Graph Optimization and sensor fusion
+2. lidar_3.py – LiDAR data acquisition and processing
+3. arduino_comb.ino – Differential drive robot control code
+4. sensor_fusion_expt1.csv – Experimental dataset for non-slip condition
+5. sensor_fusion_expt2.csv – Experimental dataset for slip condition
 
 **Results**
 
